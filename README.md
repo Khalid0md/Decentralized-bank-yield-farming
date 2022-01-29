@@ -1,4 +1,4 @@
-# Advanced Sample Hardhat Project
+# Advanced Sample Hardhat Project - Decentralized Bank with yield farming and rewards functionality
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
